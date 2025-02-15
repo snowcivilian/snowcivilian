@@ -4,7 +4,7 @@ Hey there! I'm Merritt, a Senior UX Designer who values the emotional connection
 
 Behind the Scenes 🛠
 
-🚀 I've had the privilege of steering design initiatives for heavyweight players such as Morgan Stanley, Charles Schwab, and Merck to name a few, utilizing the desing thinking framework to build user-first digital experiences. My philosophy? Blending empathy, data, and a dash of design magic.
+🚀 I've had the privilege of steering design initiatives for heavyweight players such as Morgan Stanley, Charles Schwab, and Merck to name a few, utilizing the design thinking framework to build user-first digital experiences. My philosophy? Blending empathy, data, and a dash of design magic.
 
 💡 Working more on the technical side of some passion projects.
 
